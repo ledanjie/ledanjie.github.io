@@ -72,7 +72,6 @@
 
 - 接口测试工具：jmeter/postman
 - 抓包工具：fiddler
-- 前端框架：Bootstrap/AngularJS/EmberJS/HTML5/Cocos2dJS/ionic
 - 项目管理工具：禅道
 - 自动化测试：使用Python + Selenium + UnitTest来实现Web自动化测试
 - MySQL语句：对数据进行基本的查询、增加、更改、删除
